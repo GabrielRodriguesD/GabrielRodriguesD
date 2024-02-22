@@ -9,9 +9,9 @@ Inglês (Básico) **_Florestan Fernandes_**
 Inglês Instrumental **_ETEC LAURO GOMES_**
 ### Tecnologias que estou aprendendo:
 
-* Markdown
-* HTML
-* CSS
+* Markdown (linguagem de marcação)
+* HTML (linguagem de marcação)
+* CSS (linguagem de marcação)
 * JavaScript
 * Git
 * Github
