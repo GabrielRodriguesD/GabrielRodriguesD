@@ -1,6 +1,6 @@
 # ✨🌱  Gabriel Rodrigues Dantas de Souza 🌱 ✨
 
-Sou um estudante de Programação Front End no SENAI, tenho 23 anos, solteiro.
+Sou um estudante de Programação Front End no SENAI, tenho 23 anos, solteiro 🌹.
 
 
 ## Formação
@@ -8,6 +8,15 @@ Inglês (Básico) **_Florestan Fernandes_**
 
 Inglês Instrumental **_ETEC LAURO GOMES_**
 ### Tecnologias que estou aprendendo:
+
+* Markdown
+* HTML
+* CSS
+* JavaScript
+* Git
+* Github
+* Powershell
+* Introdução de Python
 
 Atualmente aprendendo HTML, CSS e JavaScript no curso de Programação Front End e introdução de Python no **_SENAI_**
 
