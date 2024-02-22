@@ -1,4 +1,17 @@
-### GabrielRodriguesD
+# 🌱  Gabriel Rodrigues Dantas de Souza 🌱 
+
+Sou um estudante de Programação Front End no SENAI, tenho 23 anos, solteiro.
+
+Atualmente aprendendo HTML, CSS e JavaScript no curso de Programação Front End e introdução de Python No **_SENAI_**
+
+## Formação
+
+### Tecnologias que estou aprendendo:
+✨🌹
+
+
+
+
 
 <!--
 **GabrielRodriguesD/GabrielRodriguesD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +26,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+## -> markdown
 -->
